@@ -1,0 +1,5 @@
+flask==2.1.1
+werkzeug==2.1.1
+pytesseract==0.3.9
+pyperclip==1.8.2
+opencv-python==4.5.5.64
